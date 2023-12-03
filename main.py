@@ -28,20 +28,7 @@ dictionary = {
     "phonenumber": "9976770500"
 }
   #This is the main branch version
-  #This is the main branch version
-  #This is the main branch version
- #This is the main branch version
-  #This is the main branch version
-  #This is the main branch version
-  #This is the main branch version
-  #This is the main branch version
- 
-  #This is the main branch version
- 
- 
- 
- 
- 
+
  
 # Serializing json
 json_object = json.dumps(dictionary, indent=4)
